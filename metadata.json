@@ -1,0 +1,5 @@
+{
+  "name": "LeetVault Automator",
+  "description": "A sophisticated tool to automatically generate perfectly formatted Obsidian vault notes for LeetCode problems using Gemini AI with real-time search grounding.",
+  "requestFramePermissions": []
+}
